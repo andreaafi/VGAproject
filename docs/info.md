@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-The project generates a logo that moves around the screen with a yellow background
+The project generates a logo that moves around the screen with a yellow background.
 
 ## How to test
 
@@ -17,4 +17,4 @@ You can run the project and watch as the logo moves. You can also change the col
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+No external hardware
