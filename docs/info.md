@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+The project generates a logo that moves around the screen with a yellow background
 
 ## How to test
 
-Explain how to use your project
+You can run the project and watch as the logo moves. You can also change the color
 
 ## External hardware
 
